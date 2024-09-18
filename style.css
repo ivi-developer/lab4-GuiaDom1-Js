@@ -1,0 +1,14 @@
+#mi-div {
+    background-color: aqua;
+    width: 10px;
+    height: 10px;
+}
+
+.color-en-hover#mi-div {
+    /* para aplicar estilos con clases cuando ya aplicamos otros con id podemos seleccionar de esta forma */
+    background-color: blue;
+}
+
+.color {
+    background-color: blue;
+}

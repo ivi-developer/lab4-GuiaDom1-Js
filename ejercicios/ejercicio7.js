@@ -1,0 +1,2 @@
+//Añade un evento que escuche cuando se presione una tecla en el documento y muestre el código de la tecla presionada en un elemento `<p>`
+export const punto7 = () => document.addEventListener('keypress', e => console.log(e.key))//el parametro de la arrow es el evento del primer parametro
