@@ -1,4 +1,4 @@
-import { ejercicio6 } from "./ejercicio6.js";
+import { punto6 } from "./ejercicios/ejercicio6.js";
 import { modificarParrafoConId } from "./ejercicios/ejercicio1.js";
 import { agregarClaseADiv } from "./ejercicios/ejercicio2.js";
 import { eliminarElementoPorId } from "./ejercicios/ejercicio3.js";
@@ -12,7 +12,7 @@ agregarClaseADiv('mi-div')
 eliminarElementoPorId('mi-lista')
 msjButton('mi-boton')
 colorEnHover('mi-div')
-ejercicio6('mi-input', 'mi-boton-de-form', 'mi-formulario')
+punto6('mi-input', 'mi-boton-de-form', 'mi-formulario')
 punto7()
 punto8()
 punto9('boton-contador')

@@ -12,3 +12,22 @@
 .color {
     background-color: blue;
 }
+
+#imgs-wrapper {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 2px;
+}
+
+.img-wrapper {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 2px;
+}
+
+#imgs-wrapper img {
+    display: inline-block;
+    width: 100%;
+}
