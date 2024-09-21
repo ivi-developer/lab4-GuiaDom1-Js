@@ -11,6 +11,7 @@ import { punto10 } from "./ejercicios/ejercicio10.js";
 import { punto11 } from "./ejercicios/ejercicio11.js";
 import { punto12 } from "./ejercicios/ejercicio12.js";
 import { punto13 } from "./ejercicios/ejercicio13.js";
+import { punto14 } from "./ejercicios/ejericicio14.js";
 modificarParrafoConId('mi-parrafo', 'Hola mundo')
 agregarClaseADiv('mi-div')
 eliminarElementoPorId('mi-lista')
@@ -24,3 +25,4 @@ punto10('imgs-wrapper')
 punto11('mi-otro-div')
 punto12()
 punto13()
+punto14('mi-tabla-body')
