@@ -12,6 +12,9 @@ import { punto11 } from "./ejercicios/ejercicio11.js";
 import { punto12 } from "./ejercicios/ejercicio12.js";
 import { punto13 } from "./ejercicios/ejercicio13.js";
 import { punto14 } from "./ejercicios/ejericicio14.js";
+import { punto15 } from "./ejercicios/ejercicio15.js";
+import { punto17 } from "./ejercicios/ejercicio17.js";
+import { punto16 } from "./ejercicios/ejercicio16.js";
 modificarParrafoConId('mi-parrafo', 'Hola mundo')
 agregarClaseADiv('mi-div')
 eliminarElementoPorId('mi-lista')
@@ -26,3 +29,6 @@ punto11('mi-otro-div')
 punto12()
 punto13()
 punto14('mi-tabla-body')
+punto15('mail-form')
+punto16('calculadora-form')
+punto17('guess-form')
